@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="play">Play</string>
+    <string name="menu">Menu</string>
+    <string name="vs_computer">One Player</string>
+    <string name="vs_human">Two Players</string>
+    <string name="about">About</string>
+    <string name="close">Close</string>
+    <string name="quit">Quit</string>
+
+    <string name="choose_x_or">Choose X or O</string>
+    <string name="choose_board">Choose your preferred board type</string>
+    <string name="about_display">App: Tic-tac-toe\nAuthor: Chima Chukwuemeka\nEmail: chukwuemekachm@gmail.com\nReason: ALC 2.0 Hill Climb Challenge\nYear: March 2018</string>
+    <string name="three">3x3</string>
+    <string name="computer_turn">Computer\'s Turn</string>
+    <string name="human_turn">Your Turn</string>
+    <string name="playerOne">Player One\'s Turn</string>
+    <string name="playerTwo">Player Two\'s Turn</string>
+    <string name="five">5x5</string>
+    <string name="cross">X</string>
+    <string name="nut">O</string>
+    <string name="board">Board</string>
+    <string name="game">Game</string>
+    <string name="empty"></string>
+
+    <string name="reset">Reset</string>
+    <string name="change">Board</string>
+</resources>
